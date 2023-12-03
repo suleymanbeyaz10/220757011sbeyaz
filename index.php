@@ -31,7 +31,7 @@
 <body>
     <?php include 'navbar.php'; ?>
     <br>
-    <header style="margin: 20px;">
+    <header style="border-radius: 10px">
         <h1>Hoş Geldiniz!</h1>
         <h4>Biruni Üniversitesi Bilgisayar Programcılığı Vize Ödevi</h4>
     </header>
@@ -39,7 +39,7 @@
     <section id="intro-section" margin: 20px;>
         <h1>SÜLEYMAN BEYAZ</h1>
         <h2>220757011</h2>
-        <div class="container-sm" style="background-color: grey;">
+        <div class="container-sm" style="background-color: 9BBEC8; border-radius: 10px" >
             <?php echo "
             Ben Süleyman,
             Biruni Üniversitesi, Bilgisayar Programcılığı öğrencisiyim. Bilgisayar teknolojilerinin her türlüsüne olan merakımı yazılım alanında ilerletmek isteyen biriyim.
