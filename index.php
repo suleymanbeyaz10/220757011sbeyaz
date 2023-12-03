@@ -41,12 +41,11 @@
         <h2>220757011</h2>
         <div class="container-sm" style="background-color: #164863; border-radius: 10px; font: size 7px " >
             <?php echo "
-            Ben Süleyman,
-            Biruni Üniversitesi, Bilgisayar Programcılığı öğrencisiyim. Bilgisayar teknolojilerinin her türlüsüne olan merakımı yazılım alanında ilerletmek isteyen biriyim.
-            Kendimi öncelikli olarak backend alanında .Net Core teknolojisi
-            altında C# ile birlikte geliştirmeye çalışıyorum.Bütün çalışmalarımı geniş GITHUB repositorim de
-            bulabilirsiniz. İleriye dönük planlarımın arasında kurumsal projelere destek vererek ülkeme katkıda bulunmak
-            ve bulunduğum konumun ihtiyaçlarını karşılamak önceliğimdir. ";
+            Merhaba, ben Süleyman, Biruni Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Yazılım dünyasına duyduğum merakı, özellikle backend geliştirme alanında derinleştirmeye çalışıyorum. Şu anda .NET Core teknolojisi ve C# dili üzerinde yoğunlaşıyorum. Çalışmalarımın tamamını geniş GitHub repositorimde bulabilirsiniz.
+
+Gelecekteki hedeflerim arasında, kurumsal projelerde yer alarak ülkeme katkıda bulunmak ve bulunduğum konumdaki ihtiyaçlara cevap vermek öncelikli yer tutuyor. Yazılım alanındaki yeteneklerimi geliştirip, teknolojinin sunduğu imkanları en iyi şekilde kullanarak projeler üretmek istiyorum.
+
+Eğer GitHub repositorimde yaptığım en son değişiklikleri öğrenmek istiyorsanız, düzenli olarak repoyu kontrol etmenizi ve güncellemeleri takip etmenizi öneririm. Bu şekilde, yapılan ekleme, çıkarma ve değişiklikleri daha yakından izleyebilirsiniz. Başarılar dilerim! ";
             ?>
         </div>
     </section>
