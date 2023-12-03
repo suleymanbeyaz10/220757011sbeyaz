@@ -28,7 +28,7 @@
 </head>
 <body>
     <?php include 'navbar.php'; ?> <br>
-    <header>
+    <header style="margin: 20px;">
         <h1>Benimle İletişime Geçin</h1>
     </header>
     

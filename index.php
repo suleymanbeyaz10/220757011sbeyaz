@@ -26,16 +26,17 @@
             text-align: center;
         }
     </style>
-    <?php include 'navbar.php'; ?>
 </head>
 
 <body>
-    <header>
-        <h1>Hoş Geldiniz! </h1>
+    <?php include 'navbar.php'; ?>
+    <br>
+    <header style="margin: 20px;">
+        <h1>Hoş Geldiniz!</h1>
         <h4>Biruni Üniversitesi Bilgisayar Programcılığı Vize Ödevi</h4>
     </header>
 
-    <section id="intro-section">
+    <section id="intro-section" margin: 20px;>
         <h1>SÜLEYMAN BEYAZ</h1>
         <h2>220757011</h2>
         <div class="container-sm" style="background-color: grey;">

@@ -9,6 +9,7 @@
 <style>
     body {
         background-color: #222322;
+        margin: 20px;
     }
     nav {
         background-color: #333;

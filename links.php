@@ -33,7 +33,7 @@
 <body>
     <?php include 'navbar.php'; ?>
     <br>
-    <header>
+    <header style="margin: 20px;">
         <h1>Bağlantılar</h1>
     </header>
     
