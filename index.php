@@ -30,6 +30,7 @@
     
     <section id="intro-section">
         <h2>SÜLEYMAN BEYAZ</h2>
+        <img src="assets/images/ss.jpeg" loading="lazy" style="width:100%;height:100%;display:block;object-fit:cover;object-position:38.35647042% 50%;transform:translate(-38.35647042%, -50%) rotate(0deg);">
         <p>Bilgisayar teknolojilerinin her türlüsüne olan merakımı yazılım alanında ilerletmek isteyen biriyim.</p>
     </section>
 
