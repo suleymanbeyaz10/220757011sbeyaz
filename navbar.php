@@ -7,6 +7,9 @@
 </nav>
 
 <style>
+    body {
+        background-color: #222322;
+    }
     nav {
         background-color: #333;
         overflow: hidden;

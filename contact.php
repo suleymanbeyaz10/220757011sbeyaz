@@ -27,19 +27,20 @@
     </style>
 </head>
 <body>
+    <?php include 'navbar.php'; ?> <br>
     <header>
-        <h1>Bizimle İletişime Geçin</h1>
+        <h1>Benimle İletişime Geçin</h1>
     </header>
     
     <section id="contact-section">
         <div class="contact-block">
             <h3>Adres Bilgisi</h3>
-            <p>1234 Sokak, Örnek Mahalle, Şehir</p>
+            <p>İstanbul, Turkey</p>
         </div>
 
         <div class="contact-block">
             <h3>Email</h3>
-            <p>info@example.com</p>
+            <p>suleymanbeyaz10@gmail.com</p>
         </div>
 
         <div class="contact-block">
@@ -48,6 +49,5 @@
         </div>
     </section>
 
-    <?php include 'navbar.php'; ?>
 </body>
 </html>

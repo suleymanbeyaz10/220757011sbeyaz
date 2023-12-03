@@ -31,30 +31,31 @@
     </style>
 </head>
 <body>
+    <?php include 'navbar.php'; ?>
+    <br>
     <header>
-        <h1>Faydalı Bağlantılar</h1>
+        <h1>Bağlantılar</h1>
     </header>
     
     <section id="links-section">
         <div class="link-block">
-            <h3>Örnek Bağlantı 1</h3>
-            <p>Açıklama veya detaylar buraya eklenebilir.</p>
-            <a href="https://www.example.com" target="_blank">Linki Ziyaret Et</a>
+            <h3>LinkedIn</h3>
+            <p>Sosyal Medya</p>
+            <a href="https://www.linkedin.com/in/suleymanbeyaz/" target="_blank">Linki Ziyaret Et</a>
         </div>
 
         <div class="link-block">
-            <h3>Örnek Bağlantı 2</h3>
-            <p>Açıklama veya detaylar buraya eklenebilir.</p>
-            <a href="https://www.example.com" target="_blank">Linki Ziyaret Et</a>
+            <h3>Github</h3>
+            <p>Projeler ve Çalışmalar</p>
+            <a href="https://github.com/suleymanbeyaz10" target="_blank">Linki Ziyaret Et</a>
         </div>
 
         <div class="link-block">
-            <h3>Örnek Bağlantı 3</h3>
-            <p>Açıklama veya detaylar buraya eklenebilir.</p>
-            <a href="https://www.example.com" target="_blank">Linki Ziyaret Et</a>
+            <h3>Youtube</h3>
+            <p></p>
+            <a href="https://www.youtube.com/@bymahone" target="_blank">Linki Ziyaret Et</a>
         </div>
     </section>
 
-    <?php include 'navbar.php'; ?>
 </body>
 </html>
